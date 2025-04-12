@@ -1,4 +1,4 @@
-package Utility;
+package utility;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
@@ -15,7 +15,6 @@ import java.awt.event.InputEvent;
 import java.awt.event.KeyEvent;
 import java.time.Duration;
 import java.util.List;
-import java.util.Locale;
 
 public class ParentPage {
 
