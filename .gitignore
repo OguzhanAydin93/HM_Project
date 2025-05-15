@@ -4,5 +4,7 @@ target/
 !**/src/test/**/target/
 
 .idea/
-workspace.xml
 *.iml
+workspace.xml
+!/target/
+!/configuration.properties
